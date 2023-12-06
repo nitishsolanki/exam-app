@@ -1,0 +1,330 @@
+[
+  {
+    "question": "Research has shown that consumers tend to process prices in a 'left-to-right' manner rather than by rounding. With this knowledge which of the following prices would seem to be a better psychological price?",
+    "options": [
+      "a. $9.99",
+      "b. $10.04",
+      "a. $9.98",
+      "b. $6.03"
+    ],
+    "correctAnswer": "a. $9.99"
+  },
+  {
+    "question": "Which of the following is NOT one of the conditions that must exist for price discrimination to work?",
+    "options": [
+      "a. the practice must not be illegal",
+      "b. the practice must not breed customer resentment",
+      "c. competitors must not be able to undersell the firm in the high segment",
+      "d. Market must be homogeneous",
+      "e. All of the above are required conditions"
+    ],
+    "correctAnswer": "d. Market must be homogeneous"
+  },
+  {
+    "question": "Which of the following pricing techniques is illegal in the United States?",
+    "options": [
+      "a. Consumer differential pricing",
+      "b. Premium pricing",
+      "c. Bundled pricing",
+      "d. Price fixing",
+      "e. Every Day Low Pricing"
+    ],
+    "correctAnswer": "d. Price fixing"
+  },
+  {
+    "question": "Which of the following pricing techniques is both unethical and illegal?",
+    "options": [
+      "a. Consumer differential pricing",
+      "b. Loss-leader pricing",
+      "c. High-low pricing",
+      "d. Bait and switch pricing",
+      "e. Psychological pricing"
+    ],
+    "correctAnswer": "d. Bait and switch pricing"
+  },
+  {
+    "question": "The demand for your product fell 66 percent when the price increased by 50 percent. This is an example of what type of demand?",
+    "options": [
+      "a. Coefficient",
+      "b. Inelastic",
+      "c. Elastic",
+      "d. Unitary",
+      "e. None of the above"
+    ],
+    "correctAnswer": "c. Elastic"
+  },
+  {
+    "question": "The most elementary pricing method is to add a standard ________ to the product's cost.",
+    "options": [
+      "a. target margin",
+      "b. target price",
+      "c. markup",
+      "d. margin",
+      "e. target-return"
+    ],
+    "correctAnswer": "c. markup"
+  },
+  {
+    "question": "The quantity demanded of your firm's product increased only 5 percent when the price of each unit was reduced by 33 percent. This is an example of what type of demand?",
+    "options": [
+      "a. Elastic",
+      "b. Coefficient",
+      "c. Unitary",
+      "d. Inelastic",
+      "e. None of the above"
+    ],
+    "correctAnswer": "d. Inelastic"
+  },
+  {
+    "question": "To maximize market share, a firm may use _____________ pricing which is based on the principle that as sales volume increases, unit costs will decrease.",
+    "options": [
+      "a. market-penetration",
+      "b. market-skimming",
+      "c. value pricing",
+      "d. demand pricing",
+      "e. price bands"
+    ],
+    "correctAnswer": "a. market-penetration"
+  },
+  {
+    "question": "Which of the following marketing techniques is considered to be illegal?",
+    "options": [
+      "a.Comparative advertising showing competitor’s products",
+      "b.Consumer differential pricing",
+      "c.High prices",
+      "d.Private label branding",
+      "e. None of the above options are illegal"
+    ],
+    "correctAnswer": "e. None of the above options are illegal"
+  },
+  {
+    "question": "In ________ the retailer charges higher prices on an everyday basis but then runs frequent promotions in which prices are temporarily lowered below the EDLP level",
+    "options": [
+      "a.going-rate pricing",
+      "b.EDLP pricing",
+      "c.value pricing",
+      "d.high-low pricing",
+      "e.everyday low pricing"
+    ],
+    "correctAnswer": "d.high-low pricing"
+  },
+  {
+    "question": "Companies deciding on the number of intermediaries to use at each channel level have three strategies available to them. They can use exclusive distribution, ________ distribution, and intensive distribution.",
+    "options": [
+      "a. selective",
+      "b. extensive",
+      "c. self-selecting",
+      "d. competitive",
+      "e. collective"
+    ],
+    "correctAnswer": "a. selective"
+  },
+  {
+    "question": "A ________ channel consists of a manufacturer selling directly to the final customer.",
+    "options": [
+      "a. three-level",
+      "b. two-level",
+      "c. zero-level",
+      "d. multiple level",
+      "e. one-level"
+    ],
+    "correctAnswer": "c. zero-level"
+  },
+  {
+    "question": "Intermediaries who buy, take title to, and resell the merchandise are called ________.",
+    "options": [
+      "a. retailers",
+      "b. facilitators",
+      "c. marketers",
+      "d. agents",
+      "e. merchants"
+    ],
+    "correctAnswer": "e. merchants"
+  },
+  {
+    "question": "Each channel alternative needs to be evaluated against ________, control, and adaptive criteria.",
+    "options": [
+      "a. economic",
+      "b. manufacturing",
+      "c. delivery",
+      "d. financial",
+      "e. timing issues"
+    ],
+    "correctAnswer": "a. economic"
+  },
+  {
+    "question": "A ________ strategy involves the manufacturer using its sales force and trade promotion money to induce intermediaries to carry, promote, and sell the product to end users.",
+    "options": [
+      "a. push",
+      "b. pull",
+      "c. promote",
+      "d. provide",
+      "e. none of the above"
+    ],
+    "correctAnswer": "a. push"
+  },
+  {
+    "question": "Retailers must make marketing decisions in the areas of product assortment and procurement, services and store atmosphere, price, communications, locations, and ________.",
+    "options": [
+      "a. niche",
+      "b. style",
+      "c. shoppers",
+      "d. target market",
+      "e. procedures"
+    ],
+    "correctAnswer": "d. target market"
+  },
+  {
+    "question": "A ________ strategy involves the manufacturer using advertising and promotion to persuade consumers to ask intermediaries for the product, thus inducing the intermediaries to order it.",
+    "options": [
+      "a. push",
+      "b. pull",
+      "c. promote",
+      "d. provide",
+      "e. none of the above"
+    ],
+    "correctAnswer": "b. pull"
+  },
+  {
+    "question": "One of the major current trends in retailing includes which of the following?",
+    "options": [
+      "a. Reduction in the level of global competition.",
+      "b. A decline in the 'shop at home' markets.",
+      "c. Growth of the 'smaller' boutique types of stores.",
+      "d. Competition between store-based and non-store based retailing.",
+      "e. None of the above"
+    ],
+    "correctAnswer": "d. Competition between store-based and non-store based retailing."
+  },
+  {
+    "question": "Major retailer types include all of the following EXCEPT ________.",
+    "options": [
+      "a. specialty store",
+      "b. discount store",
+      "c. off-price retailer",
+      "d. online store",
+      "e. superstore"
+    ],
+    "correctAnswer": "d. online store"
+  },
+  {
+    "question": "Designing a marketing channel system involves analyzing customer needs, ________, identifying major channel alternatives, and evaluating major channel alternatives.",
+    "options": [
+      "a. establishing channel partners",
+      "b. establishing channel costs",
+      "c. establishing channel members",
+      "d. establishing channel budgets",
+      "e. establishing channel objectives"
+    ],
+    "correctAnswer": "e. establishing channel objectives"
+  },
+  {
+    "question": "Risk is the _____ and associated impact from an event or threat on the achievement of overall objectives and goals, resulting in potential or actual loss?",
+    "options": [
+      "a. Practice",
+      "b. Impossibility",
+      "c. Likelihood",
+      "d. unforeseeable"
+    ],
+    "correctAnswer": "c. Likelihood"
+  },
+  {
+    "question": "Marketing communications are the means by which firms attempt to ________, persuade, and remind consumers about the product and brands that they sell.",
+    "options": [
+      "a. inform",
+      "b. reach",
+      "c. attract",
+      "d. interest",
+      "e. none of the above"
+    ],
+    "correctAnswer": "a. inform"
+  },
+  {
+    "question": "Messages delivered by attractive or popular sources can potentially achieve higher attention and recall. What is important is the spokesperson's credibility. Source credibility consists of trustworthiness, likeability, and ________.",
+    "options": [
+      "a. celebrity status",
+      "b. experience",
+      "c. expertise",
+      "d. age",
+      "e. reputation"
+    ],
+    "correctAnswer": "c. expertise"
+  },
+  {
+    "question": "Creative strategies are how marketers translate their messages into a specific communication. Creative strategies can be broadly classified as involving either informational or ________ appeals.",
+    "options": [
+      "a. branded entertainment",
+      "b. point-of-purchase",
+      "c. advertorials",
+      "d. transformational",
+      "e. individualization"
+    ],
+    "correctAnswer": "d. transformational"
+  },
+  {
+    "question": "The four common methods that companies use to decide on a promotion budget include the affordable method, the percentage-of-sales method, ________, and the objective-and-task method.",
+    "options": [
+      "a. financial method",
+      "b. incremental growth method",
+      "c. zero-based budgeting method",
+      "d. competitive-parity method",
+      "e. last year's budget method"
+    ],
+    "correctAnswer": "d. competitive-parity method"
+  },
+  {
+    "question": "Which of the following is NOT one of the 'M's of advertising decision making?",
+    "options": [
+      "a. Marketing",
+      "b. Money",
+      "c. Media",
+      "d. Message",
+      "e. All of the above are 'M's of advertising decision making"
+    ],
+    "correctAnswer": "a. Marketing"
+  },
+  {
+    "question": "A retailer wants to run an ad announcing that the new Harry Potter book will be available at the store next Saturday. An ad in Newspaper A will cost $500, and an ad in Newspaper B will cost $375. Newspaper A has a circulation of 10,000, and Newspaper B has a circulation of 8,000.",
+    "options": [
+      "a. Newspaper A has the lower CPM",
+      "b. Both newspapers have equal CPMs",
+      "c. Newspaper B has the lower CPM",
+      "d. Not sufficient information to calculate CPMs",
+      "e. Frequency can be measured & compared but not Reach."
+    ],
+    "correctAnswer": "c. Newspaper B has the lower CPM"
+  },
+  {
+    "question": "Which of the following best describes the push activities of promotion?",
+    "options": [
+      "a. Print advertising in magazines",
+      "b. TV commercial during the Super bowl",
+      "c. Image advertising on television commercials",
+      "d. Off-invoice allowances to retailers",
+      "e. Coupon programs to customers"
+    ],
+    "correctAnswer": "d. Off-invoice allowances to retailers"
+  },
+  {
+    "question": "An Anti-Smoking organization wants to run television ads that will urge smokers to quit by emphasizing the negative effects of smoking. Which of the following is an important guideline they should consider when using fear appeals?",
+    "options": [
+      "a. Don't make the appeal so strong that consumers want to avoid the advertisement.",
+      "b. Be sure to make it appeal to children.",
+      "c. Include a mention of several other health issues such as obesity.",
+      "d. Appeal mainly to older people",
+      "e. All of the above"
+    ],
+    "correctAnswer": "a. Don't make the appeal so strong that consumers want to avoid the advertisement."
+  },
+  {
+    "question": "Sales promotions tools offer three distinctive benefits to marketers. Among these benefits are communication, invitation, and ________.",
+    "options": [
+      "a. credibility",
+      "b. impersonality",
+      "c. exclusion",
+      "d. inclusion",
+      "e. incentive"
+    ],
+    "correctAnswer": "e. incentive"
+  }
+]

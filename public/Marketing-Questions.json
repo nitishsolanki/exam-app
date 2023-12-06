@@ -1,0 +1,1002 @@
+[
+    {
+      "question": "Which of the following is NOT one of the exchange requirements?",
+      "options": [
+        "a) High market share",
+        "b) Capable of communication and delivery",
+        "c) Freedom to reject the exchange offer",
+        "d) Belief in dealing with the other party"
+      ],
+      "correctAnswer": "a) High market share"
+    },
+    {
+      "question": "In an exchange, each party believes it is appropriate or desirable to deal with the other party. What is this concept known as?",
+      "options": [
+        "a) Market power",
+        "b) Perceived value",
+        "c) Market orientation",
+        "d) Willingness to exchange"
+      ],
+      "correctAnswer": "b) Perceived value"
+    },
+    {
+      "question": "Which of the following is NOT something that can be marketed?",
+      "options": [
+        "a) Services",
+        "b) Places and Properties",
+        "c) Knowledge and Skills",
+        "d) Government regulations"
+      ],
+      "correctAnswer": "d) Government regulations"
+    },
+    {
+      "question": "When marketing 'events and experiences,' what type of offerings are businesses focused on?",
+      "options": [
+        "a) Tangible products",
+        "b) Intangible services",
+        "c) Sensory and emotional experiences",
+        "d) Technological advancements"
+      ],
+      "correctAnswer": "c) Sensory and emotional experiences"
+    },
+    {
+      "question": "In a simple marketing system, what does the industry provide in exchange for money?",
+      "options": [
+        "a) Information",
+        "b) Goods and services",
+        "c) Barter",
+        "d) Raw materials"
+      ],
+      "correctAnswer": "b) Goods and services"
+    },
+    {
+      "question": "What does the customer provide in a simple marketing system in return for communication?",
+      "options": [
+        "a) Money",
+        "b) Goods",
+        "c) Information",
+        "d) Promotional services"
+      ],
+      "correctAnswer": "c) Information"
+    },
+    {
+      "question": "Which of the following represents markets involving individuals or households who purchase products for personal consumption?",
+      "options": [
+        "a) Business Markets",
+        "b) Global Markets",
+        "c) Consumer Markets",
+        "d) Governmental/NonProfit Markets"
+      ],
+      "correctAnswer": "c) Consumer Markets"
+    },
+    {
+      "question": "Which company orientation focuses on selling and promotion and is often used for 'unsought goods'?",
+      "options": [
+        "a) Production",
+        "b) Product",
+        "c) Selling",
+        "d) Marketing"
+      ],
+      "correctAnswer": "c) Selling"
+    },
+    {
+      "question": "Which company orientation focuses on customer wants and needs to distinguish products from the competition and is used by most well-known companies?",
+      "options": [
+        "a) Production",
+        "b) Product",
+        "c) Selling",
+        "d) Marketing"
+      ],
+      "correctAnswer": "d) Marketing"
+    },
+    {
+      "question": "In the context of the Four P's, what does 'Place' refer to?",
+      "options": [
+        "a) The physical location of a business",
+        "b) The product's quality",
+        "c) The price of the product",
+        "d) The distribution channels used to make the product available"
+      ],
+      "correctAnswer": "d) The distribution channels used to make the product available"
+    },
+    {
+      "question": "In the Four C's model, what does 'Customer Solution' focus on?",
+      "options": [
+        "a) Creating marketing plans",
+        "b) Building brand recognition",
+        "c) Providing a value proposition that solves the customer's problem",
+        "d) Increasing product quality"
+      ],
+      "correctAnswer": "c) Providing a value proposition that solves the customer's problem"
+    },
+    {
+      "question": "What is the equivalent of the 'Four P's' concept in the 'Four C's' model?",
+      "options": [
+        "a) Product",
+        "b) Price",
+        "c) Promotion",
+        "d) Customer Solution"
+      ],
+      "correctAnswer": "d) Customer Solution"
+    },
+    {
+      "question": "What is the state of felt deprivation in a person referred to as?",
+      "options": [
+        "a) Demand",
+        "b) Wants",
+        "c) Needs",
+        "d) Desires"
+      ],
+      "correctAnswer": "c) Needs"
+    },
+    {
+      "question": "How are wants shaped?",
+      "options": [
+        "a) By individual personalities only",
+        "b) By culture and individual personality",
+        "c) By economic status",
+        "d) By peer pressure"
+      ],
+      "correctAnswer": "b) By culture and individual personality"
+    },
+    {
+      "question": "Which of the following is a 'want' backed by purchasing power?",
+      "options": [
+        "a) Demand",
+        "b) Needs",
+        "c) Expectations",
+        "d) Preferences"
+      ],
+      "correctAnswer": "a) Demand"
+    },
+    {
+      "question": "What is defined as anything that can be offered to a market for attention, acquisition, use, or consumption?",
+      "options": [
+        "a) Service",
+        "b) Idea",
+        "c) Product",
+        "d) Need"
+      ],
+      "correctAnswer": "c) Product"
+    },
+    {
+      "question": "In a production-oriented company, what does the company focus on improving?",
+      "options": [
+        "a) Customer service",
+        "b) Production and distribution efficiency",
+        "c) Advertising and promotion",
+        "d) Product quality"
+      ],
+      "correctAnswer": "b) Production and distribution efficiency"
+    },
+    {
+      "question": "In which situation does the production orientation work mainly?",
+      "options": [
+        "a) When demand exceeds supply",
+        "b) When product quality is essential",
+        "c) When a company wants to offer the lowest prices",
+        "d) When there's intense competition"
+      ],
+      "correctAnswer": "a) When demand exceeds supply"
+    },
+    {
+      "question": "In a product-oriented company, what is the primary focus?",
+      "options": [
+        "a) Improving product features and quality",
+        "b) Expanding customer service",
+        "c) Maximizing production efficiency",
+        "d) Offering the lowest prices"
+      ],
+      "correctAnswer": "a) Improving product features and quality"
+    },
+    {
+      "question": "What does a product-oriented approach often lead to, which is a major drawback?",
+      "options": [
+        "a) High customer satisfaction",
+        "b) Sustainable competitive advantage",
+        "c) 'Marketing myopia'",
+        "d) Strong brand loyalty"
+      ],
+      "correctAnswer": "c) 'Marketing myopia'"
+    },
+    {
+      "question": "In a sales-oriented company, what does the company primarily focus on?",
+      "options": [
+        "a) Improving customer service",
+        "b) Selling and promotion",
+        "c) Product quality",
+        "d) Cost reduction"
+      ],
+      "correctAnswer": "b) Selling and promotion"
+    },
+    {
+      "question": "When is a sales-oriented approach most effectively used?",
+      "options": [
+        "a) For everyday consumer goods",
+        "b) For high-demand products",
+        "c) For 'unsought goods' and non-profit organizations",
+        "d) For luxury products"
+      ],
+      "correctAnswer": "c) For 'unsought goods' and non-profit organizations"
+    },
+    {
+      "question": "What is the core idea behind a marketing orientation?",
+      "options": [
+        "a) Focus on product quality",
+        "b) Focus on production efficiency",
+        "c) Focus on customer wants and needs",
+        "d) Focus on lowering prices"
+      ],
+      "correctAnswer": "c) Focus on customer wants and needs"
+    },
+    {
+      "question": "In a marketing-oriented company, how are all organizational activities integrated?",
+      "options": [
+        "a) To maximize product features",
+        "b) To minimize production costs",
+        "c) To satisfy customer wants and needs more effectively than competitors",
+        "d) To focus on societal marketing"
+      ],
+      "correctAnswer": "c) To satisfy customer wants and needs more effectively than competitors"
+    },
+    {
+      "question": "In societal marketing, what is the primary focus of a company?",
+      "options": [
+        "a) Maximizing profit",
+        "b) Customer wants and needs",
+        "c) Customer cost",
+        "d) Society's well-being"
+      ],
+      "correctAnswer": "d) Society's well-being"
+    },
+    {
+      "question": "In societal marketing, what is the aim to achieve in the long run?",
+      "options": [
+        "a) Short-term profit maximization",
+        "b) Customer satisfaction",
+        "c) Organization's profit goals",
+        "d) Long-term goals by satisfying customer wants and needs"
+      ],
+      "correctAnswer": "d) Long-term goals by satisfying customer wants and needs"
+    },
+    {
+      "question": "Which of the following is NOT one of the environmental forces that affect marketing?",
+      "options": [
+        "a) Social",
+        "b) Cultural",
+        "c) Technological",
+        "d) Competitive"
+      ],
+      "correctAnswer": "d) Competitive"
+    },
+    {
+      "question": "Which of the following is a demographic factor that affects marketing?",
+      "options": [
+        "a) Company's production capacity",
+        "b) Technological innovations",
+        "c) Household patterns",
+        "d) Customer complaints"
+      ],
+      "correctAnswer": "c) Household patterns"
+    },
+    {
+      "question": "Which generation was raised with relative affluence, technologically plugged in, and concerned with the environment and social issues?",
+      "options": [
+        "a) Baby Boomers",
+        "b) Generation X",
+        "c) Millennials (Gen Y)",
+        "d) Silent Generation"
+      ],
+      "correctAnswer": "c) Millennials (Gen Y)"
+    },
+    {
+      "question": "Which generation is sometimes seen as bridging the technological savvy of Gen Y with the adult realities of the baby boomers?",
+      "options": [
+        "a) Baby Boomers",
+        "b) Generation X",
+        "c) Millennials (Gen Y)",
+        "d) Silent Generation"
+      ],
+      "correctAnswer": "b) Generation X"
+    },
+    {
+      "question": "Which economic factor represents the overall ability of people to purchase goods and services?",
+      "options": [
+        "a) Savings rate",
+        "b) Income distribution",
+        "c) Credit availability",
+        "d) Purchasing power"
+      ],
+      "correctAnswer": "d) Purchasing power"
+    },
+    {
+      "question": "Which type of economy is characterized by primarily agrarian and manual labor industries with limited use of technology?",
+      "options": [
+        "a) Industrial Economies",
+        "b) Industrializing Economies",
+        "c) Raw-Material-Exporting Economies",
+        "d) Subsistence Economies"
+      ],
+      "correctAnswer": "d) Subsistence Economies"
+    },
+    {
+      "question": "How do individuals view their roles in society, their peers, and organizations in the socio-cultural environment?",
+      "options": [
+        "a) Views of themselves",
+        "b) Views of society",
+        "c) Views of others",
+        "d) Views of nature"
+      ],
+      "correctAnswer": "a) Views of themselves"
+    },
+    {
+      "question": "What is one of the significant challenges in the natural environment facing businesses today?",
+      "options": [
+        "a) Decreased energy costs",
+        "b) Increased availability of raw materials",
+        "c) Proactive government support",
+        "d) Anti-pollution pressures"
+      ],
+      "correctAnswer": "d) Anti-pollution pressures"
+    },
+    {
+      "question": "How does the technological environment impact businesses?",
+      "options": [
+        "a) It reduces the pace of change",
+        "b) It limits opportunities for innovation",
+        "c) It has no influence on business operations",
+        "d) It accelerates the pace of change"
+      ],
+      "correctAnswer": "d) It accelerates the pace of change"
+    },
+    {
+      "question": "What is the impact of increased regulation of technological change in the technological environment?",
+      "options": [
+        "a) Hinders innovation",
+        "b) Reduces R&D budgets",
+        "c) Slows down the pace of change",
+        "d) Encourages unlimited opportunities for innovation"
+      ],
+      "correctAnswer": "a) Hinders innovation"
+    },
+    {
+      "question": "In recent years, what trend has been observed in the political-legal environment with regard to businesses?",
+      "options": [
+        "a) Decrease in business legislation",
+        "b) Decrease in the growth of special interest groups",
+        "c) Increase in business legislation",
+        "d) Elimination of political lobbying"
+      ],
+      "correctAnswer": "c) Increase in business legislation"
+    },
+    {
+      "question": "What does the 'Available Market' represent in the market breakdown?",
+      "options": [
+        "a) The market potential for the company's products",
+        "b) The market served by competitors",
+        "c) The market segment being targeted",
+        "d) The market penetration level"
+      ],
+      "correctAnswer": "b) The market served by competitors"
+    },
+    {
+      "question": "When a company defines a 'Target Market,' what does it aim to do?",
+      "options": [
+        "a) Estimate the size of the potential market",
+        "b) Focus on the specific segment of the market that it will target with its marketing efforts",
+        "c) Analyze the demand for its products",
+        "d) Assess the competitive landscape"
+      ],
+      "correctAnswer": "b) Focus on the specific segment of the market that it will target with its marketing efforts"
+    },
+    {
+      "question": "What is the purpose of marketing research?",
+      "options": [
+        "a) Selling products",
+        "b) Generating revenue",
+        "c) Analyzing financial performance",
+        "d) Systematic design, collection, analysis, and reporting of data relevant to a marketing situation"
+      ],
+      "correctAnswer": "d) Systematic design, collection, analysis, and reporting of data relevant to a marketing situation"
+    },
+    {
+      "question": "Which type of marketing research involves data collected specifically for a particular research project?",
+      "options": [
+        "a) Secondary data",
+        "b) Syndicated research",
+        "c) Custom research",
+        "d) Specialty-line research"
+      ],
+      "correctAnswer": "c) Custom research"
+    },
+    {
+      "question": "In which step of the marketing research process does the researcher define the problem, the decision alternatives, and the research objectives?",
+      "options": [
+        "a) Step 1: Develop research plan",
+        "b) Step 2: Collect Information",
+        "c) Step 3: Analyze Information",
+        "d) Step 4: Make Decision"
+      ],
+      "correctAnswer": "a) Step 1: Develop research plan"
+    },
+    {
+      "question": "In the marketing research process, what is the final step?",
+      "options": [
+        "a) Collect Information",
+        "b) Present Findings",
+        "c) Develop research plan",
+        "d) Define the problem and objectives"
+      ],
+      "correctAnswer": "b) Present Findings"
+    },
+    {
+      "question": "What does a sampling plan define?",
+      "options": [
+        "a) Data sources",
+        "b) Research approaches",
+        "c) Research instruments",
+        "d) Sampling procedure"
+      ],
+      "correctAnswer": "d) Sampling procedure"
+    },
+    {
+      "question": "Where can a company typically find secondary data for research?",
+      "options": [
+        "a) In-depth interviews",
+        "b) Commercial data",
+        "c) Surveys",
+        "d) Focus groups"
+      ],
+      "correctAnswer": "b) Commercial data"
+    },
+    {
+      "question": "In which research approach do researchers observe and interact with the research subjects in their natural environment?",
+      "options": [
+        "a) Survey",
+        "b) Observational",
+        "c) Focus group",
+        "d) Experimental"
+      ],
+      "correctAnswer": "b) Observational"
+    },
+    {
+      "question": "What are used in the collection of survey data?",
+      "options": [
+        "a) Data sources",
+        "b) Questionnaires",
+        "c) Research instruments",
+        "d) Sampling plans"
+      ],
+      "correctAnswer": "b) Questionnaires"
+    },
+    {
+      "question": "Which type of closed-end question allows respondents to choose from multiple options?",
+      "options": [
+        "a) Dichotomous",
+        "b) Semantic Differential",
+        "c) Rating Scale",
+        "d) Word Association"
+      ],
+      "correctAnswer": "c) Rating Scale"
+    },
+    {
+      "question": "In open-ended questions, what type of response is given by the respondents?",
+      "options": [
+        "a) Yes or no",
+        "b) A single word",
+        "c) A full sentence or more",
+        "d) A numerical rating"
+      ],
+      "correctAnswer": "c) A full sentence or more"
+    },
+    {
+      "question": "In a sampling plan, what does the 'Sampling Unit' refer to?",
+      "options": [
+        "a) How many people should be surveyed?",
+        "b) Who is to be surveyed?",
+        "c) The procedure for contacting respondents",
+        "d) The technique used for data collection"
+      ],
+      "correctAnswer": "b) Who is to be surveyed?"
+    },
+    {
+      "question": "What is the main purpose of a Marketing Decision Support System (MDSS) in an organization?",
+      "options": [
+        "a) Conducting market research",
+        "b) Managing customer databases",
+        "c) Collecting and interpreting relevant information",
+        "d) Designing marketing campaigns"
+      ],
+      "correctAnswer": "c) Collecting and interpreting relevant information"
+    },
+    {
+      "question": "Which of the following is a critical characteristic of good marketing research?",
+      "options": [
+        "a) Biased data collection",
+        "b) Research creativity",
+        "c) Utilization of a single research method",
+        "d) Low cost of data acquisition"
+      ],
+      "correctAnswer": "b) Research creativity"
+    },
+    {
+      "question": "What are the five steps of the consumer decision-making process in order?",
+      "options": [
+        "a) Problem recognition, information search, evaluation of alternatives, purchase decision, post-purchase behavior",
+        "b) Problem recognition, post-purchase behavior, purchase decision, information search, evaluation of alternatives",
+        "c) Purchase decision, evaluation of alternatives, problem recognition, information search, post-purchase behavior",
+        "d) Information search, problem recognition, evaluation of alternatives, purchase decision, post-purchase behavior"
+      ],
+      "correctAnswer": "a) Problem recognition, information search, evaluation of alternatives, purchase decision, post-purchase behavior"
+    },
+    {
+      "question": "What is the final step in the consumer decision-making process?",
+      "options": [
+        "a) Problem recognition",
+        "b) Information search",
+        "c) Purchase decision",
+        "d) Post-purchase behavior"
+      ],
+      "correctAnswer": "d) Post-purchase behavior"
+    },
+    {
+      "question": "What is the process by which information is gathered and recognized problems or needs are identified?",
+      "options": [
+        "a) Problem recognition",
+        "b) Information search",
+        "c) Evaluation of alternatives",
+        "d) Purchase decision"
+      ],
+      "correctAnswer": "a) Problem recognition"
+    },
+    {
+      "question": "In the context of the consumer decision-making process, what occurs when the consumer examines how well each alternative satisfies their needs and preferences?",
+      "options": [
+        "a) Problem recognition",
+        "b) Information search",
+        "c) Evaluation of alternatives",
+        "d) Post-purchase behavior"
+      ],
+      "correctAnswer": "c) Evaluation of alternatives"
+    },
+    {
+      "question": "What happens during the 'Information Search' step of the consumer decision-making process?",
+      "options": [
+        "a) The consumer makes a purchase decision.",
+        "b) The consumer recognizes a problem or need.",
+        "c) The consumer gathers information about products and brands.",
+        "d) The consumer evaluates alternatives based on preference."
+      ],
+      "correctAnswer": "c) The consumer gathers information about products and brands."
+    },
+    {
+      "question": "What is the consumer's goal in the 'Evaluation of Alternatives' step of the decision-making process?",
+      "options": [
+        "a) To make a purchase decision quickly.",
+        "b) To minimize information search.",
+        "c) To identify as few alternatives as possible.",
+        "d) To make the best choice based on personal preferences."
+      ],
+      "correctAnswer": "d) To make the best choice based on personal preferences."
+    },
+    {
+      "question": "In the context of consumer decision-making, what term refers to the satisfaction or dissatisfaction a consumer experiences after a purchase?",
+      "options": [
+        "a) Problem recognition",
+        "b) Information search",
+        "c) Evaluation of alternatives",
+        "d) Post-purchase behavior"
+      ],
+      "correctAnswer": "d) Post-purchase behavior"
+    },
+    {
+      "question": "What is the key factor in the success of the consumer decision-making process?",
+      "options": [
+        "a) Problem recognition",
+        "b) Information search",
+        "c) Evaluation of alternatives",
+        "d) Post-purchase behavior"
+      ],
+      "correctAnswer": "c) Evaluation of alternatives"
+    },
+    {
+      "question": "What does 'cognitive dissonance' refer to in the context of consumer decision-making?",
+      "options": [
+        "a) The consumer's struggle to recognize a problem.",
+        "b) The negative emotions and doubt that can follow a purchase decision.",
+        "c) The desire to minimize information search.",
+        "d) The consumer's reaction to a marketing campaign."
+      ],
+      "correctAnswer": "b) The negative emotions and doubt that can follow a purchase decision."
+    },
+    {
+      "question": "What are 'psychographics' in the context of consumer behavior?",
+      "options": [
+        "a) Statistics on consumer income and spending habits.",
+        "b) Studies of consumer demographics.",
+        "c) Studies of consumer personalities, lifestyles, and values.",
+        "d) Geographic data on consumer behavior."
+      ],
+      "correctAnswer": "c) Studies of consumer personalities, lifestyles, and values."
+    },
+    {
+      "question": "What is the primary focus of 'lifestyle' in psychographics?",
+      "options": [
+        "a) A consumer's geographic location.",
+        "b) A consumer's income and occupation.",
+        "c) A consumer's daily activities, interests, and opinions.",
+        "d) A consumer's age and gender."
+      ],
+      "correctAnswer": "c) A consumer's daily activities, interests, and opinions."
+    },
+    {
+      "question": "How do marketers use 'psychographics' to understand consumer behavior?",
+      "options": [
+        "a) By categorizing consumers based on income and occupation.",
+        "b) By analyzing consumer age and gender data.",
+        "c) By segmenting consumers based on personalities, lifestyles, and values.",
+        "d) By examining geographic location data."
+      ],
+      "correctAnswer": "c) By segmenting consumers based on personalities, lifestyles, and values."
+    },
+    {
+      "question": "What are 'VALS' and 'PRIZM' examples of in psychographics?",
+      "options": [
+        "a) Income categories.",
+        "b) Geographic data.",
+        "c) Lifestyle segmentation systems.",
+        "d) Age groups."
+      ],
+      "correctAnswer": "c) Lifestyle segmentation systems."
+    },
+    {
+      "question": "In the context of consumer behavior, what is a 'perception'?",
+      "options": [
+        "a) The interpretation of sensory information to give it meaning.",
+        "b) A subconscious process that consumers have no control over.",
+        "c) A form of motivation.",
+        "d) A direct response to external stimuli."
+      ],
+      "correctAnswer": "a) The interpretation of sensory information to give it meaning."
+    },
+    {
+      "question": "What does the 'perceived risk' in consumer decision-making refer to?",
+      "options": [
+        "a) The actual monetary cost of a product.",
+        "b) The emotional distress a consumer experiences.",
+        "c) The feeling that a purchase may result in a bad outcome.",
+        "d) The environmental impact of a product."
+      ],
+      "correctAnswer": "c) The feeling that a purchase may result in a bad outcome."
+    },
+    {
+      "question": "What role does 'culture' play in consumer behavior?",
+      "options": [
+        "a) It has no influence on consumer choices.",
+        "b) It shapes the values, beliefs, and norms that influence consumer behavior.",
+        "c) It only affects people from non-Western societies.",
+        "d) It primarily influences income and occupation."
+      ],
+      "correctAnswer": "b) It shapes the values, beliefs, and norms that influence consumer behavior."
+    },
+    {
+      "question": "What is 'subculture' in consumer behavior?",
+      "options": [
+        "a) A small group of consumers with unique behaviors.",
+        "b) A cultural group that has no impact on consumer choices.",
+        "c) A subset of a larger culture with unique values and norms.",
+        "d) An underground counterculture."
+      ],
+      "correctAnswer": "c) A subset of a larger culture with unique values and norms."
+    },
+    {
+      "question": "In the context of consumer behavior, what is 'social class'?",
+      "options": [
+        "a) A consumer's income level.",
+        "b) A category based on gender and age.",
+        "c) A division of society based on common values, interests, and behaviors.",
+        "d) A measure of a consumer's education level."
+      ],
+      "correctAnswer": "c) A division of society based on common values, interests, and behaviors."
+    },
+    {
+      "question": "What term describes a group that an individual uses as a guide for personal values and behaviors?",
+      "options": [
+        "a) Reference group",
+        "b) Social class",
+        "c) Subculture",
+        "d) Culture"
+      ],
+      "correctAnswer": "a) Reference group"
+    },
+    {
+      "question": "What role do 'opinion leaders' play in consumer behavior?",
+      "options": [
+        "a) They have no influence on others.",
+        "b) They are passive consumers.",
+        "c) They influence the purchasing decisions of others.",
+        "d) They follow the behaviors of others."
+      ],
+      "correctAnswer": "c) They influence the purchasing decisions of others."
+    },
+    {
+      "question": "What are the two main types of consumer buying decisions based on level of consumer involvement?",
+      "options": [
+        "a) High-involvement and low-involvement decisions",
+        "b) Routine and complex decisions",
+        "c) Impulsive and planned decisions",
+        "d) Emotional and rational decisions"
+      ],
+      "correctAnswer": "a) High-involvement and low-involvement decisions"
+    },
+    {
+      "question": "What is the primary characteristic of 'high-involvement' consumer buying decisions?",
+      "options": [
+        "a) They are routine and require minimal effort.",
+        "b) They are made quickly with minimal information.",
+        "c) They require a lot of consumer effort and information.",
+        "d) They are primarily emotional decisions."
+      ],
+      "correctAnswer": "c) They require a lot of consumer effort and information."
+    },
+    {
+      "question": "In which type of consumer buying decision does the consumer conduct a lot of research and carefully consider all available options?",
+      "options": [
+        "a) High-involvement decision",
+        "b) Low-involvement decision",
+        "c) Routine decision",
+        "d) Impulse decision"
+      ],
+      "correctAnswer": "a) High-involvement decision"
+    },
+    {
+      "question": "What is the primary characteristic of 'low-involvement' consumer buying decisions?",
+      "options": [
+        "a) They are routine and require minimal effort.",
+        "b) They are made quickly with minimal information.",
+        "c) They require a lot of consumer effort and information.",
+        "d) They are primarily emotional decisions."
+      ],
+      "correctAnswer": "a) They are routine and require minimal effort."
+    },
+    {
+      "question": "In the context of low-involvement decisions, what is the primary role of advertising?",
+      "options": [
+        "a) To provide detailed information to assist consumers in making choices.",
+        "b) To create emotional appeal and capture attention.",
+        "c) To simplify the decision-making process.",
+        "d) To encourage extensive research."
+      ],
+      "correctAnswer": "b) To create emotional appeal and capture attention."
+    },
+    {
+      "question": "What is the primary factor that influences 'impulse buying'?",
+      "options": [
+        "a) Detailed product information",
+        "b) Extensive research",
+        "c) Emotional appeal and convenience",
+        "d) High-involvement decision-making"
+      ],
+      "correctAnswer": "c) Emotional appeal and convenience"
+    },
+    {
+      "question": "What role does 'product involvement' play in consumer buying decisions?",
+      "options": [
+        "a) It has no impact on consumer choices.",
+        "b) It is a measure of the consumer's overall interest in a product.",
+        "c) It determines the price of the product.",
+        "d) It affects the consumer's need for information."
+      ],
+      "correctAnswer": "d) It affects the consumer's need for information."
+    },
+    {
+      "question": "What are 'routine' consumer buying decisions?",
+      "options": [
+        "a) Decisions that consumers make without any thought or research.",
+        "b) Decisions that require extensive information gathering and consideration.",
+        "c) Decisions about products and services purchased without much thought, such as everyday items.",
+        "d) Decisions about products with high emotional appeal."
+      ],
+      "correctAnswer": "c) Decisions about products and services purchased without much thought, such as everyday items."
+    },
+    {
+      "question": "What are the different types of 'buying roles' in the organizational buying process?",
+      "options": [
+        "a) Initiator, influencer, decision maker, buyer, user, gatekeeper",
+        "b) High-involvement and low-involvement roles",
+        "c) Product-oriented and service-oriented roles",
+        "d) Consumer and producer roles"
+      ],
+      "correctAnswer": "a) Initiator, influencer, decision maker, buyer, user, gatekeeper"
+    },
+    {
+      "question": "In the organizational buying process, what is the role of the 'initiator'?",
+      "options": [
+        "a) The person who makes the final purchase decision.",
+        "b) The person who influences the decision but doesn't make the final call.",
+        "c) The person who starts the process by identifying a need or problem.",
+        "d) The person who researches and gathers information."
+      ],
+      "correctAnswer": "c) The person who starts the process by identifying a need or problem."
+    },
+    {
+      "question": "What is the role of the 'influencer' in the organizational buying process?",
+      "options": [
+        "a) The person who makes the final purchase decision.",
+        "b) The person who influences the decision but doesn't make the final call.",
+        "c) The person who starts the process by identifying a need or problem.",
+        "d) The person who researches and gathers information."
+      ],
+      "correctAnswer": "b) The person who influences the decision but doesn't make the final call."
+    },
+    {
+      "question": "In the organizational buying process, who is the 'buyer'?",
+      "options": [
+        "a) The person who makes the final purchase decision.",
+        "b) The person who influences the decision but doesn't make the final call.",
+        "c) The person who starts the process by identifying a need or problem.",
+        "d) The person who negotiates and completes the purchase."
+      ],
+      "correctAnswer": "d) The person who negotiates and completes the purchase."
+    },
+    {
+      "question": "What is the primary function of a 'gatekeeper' in the organizational buying process?",
+      "options": [
+        "a) To initiate the buying process.",
+        "b) To make the final purchase decision.",
+        "c) To control the flow of information and access to decision makers.",
+        "d) To influence the decision without being directly involved."
+      ],
+      "correctAnswer": "c) To control the flow of information and access to decision makers."
+    },
+    {
+      "question": "What role does the 'user' play in the organizational buying process?",
+      "options": [
+        "a) The person who makes the final purchase decision.",
+        "b) The person who influences the decision but doesn't make the final call.",
+        "c) The person who starts the process by identifying a need or problem.",
+        "d) The person or group who will ultimately use the product or service."
+      ],
+      "correctAnswer": "d) The person or group who will ultimately use the product or service."
+    },
+    {
+      "question": "What does 'consumer behavior' refer to?",
+      "options": [
+        "a) The study of marketing strategies.",
+        "b) The purchasing patterns of businesses and organizations.",
+        "c) The process through which individuals or groups select, purchase, use, or dispose of products, services, ideas, or experiences to satisfy their needs and wants.",
+        "d) The analysis of financial statements."
+      ],
+      "correctAnswer": "c) The process through which individuals or groups select, purchase, use, or dispose of products, services, ideas, or experiences to satisfy their needs and wants."
+    },
+    {
+      "question": "What does 'psychology' focus on in the context of consumer behavior?",
+      "options": [
+        "a) The economic factors influencing consumer choices.",
+        "b) The physical characteristics of consumers.",
+        "c) The mental processes and emotions that drive consumer behavior.",
+        "d) The demographic data of consumers."
+      ],
+      "correctAnswer": "c) The mental processes and emotions that drive consumer behavior."
+    },
+    {
+      "question": "What role does 'motivation' play in consumer behavior?",
+      "options": [
+        "a) It has no impact on consumer choices.",
+        "b) It refers to a consumer's physical ability to make a purchase.",
+        "c) It is the driving force that initiates and directs consumer behavior.",
+        "d) It is the result of demographic factors."
+      ],
+      "correctAnswer": "c) It is the driving force that initiates and directs consumer behavior."
+    },
+    {
+      "question": "What is 'perception' in the context of consumer behavior?",
+      "options": [
+        "a) A consumer's sensory experience during shopping.",
+        "b) The price of a product or service.",
+        "c) The interpretation of sensory information to give it meaning.",
+        "d) The demographics of consumers."
+      ],
+      "correctAnswer": "c) The interpretation of sensory information to give it meaning."
+    },
+    {
+      "question": "What does 'learning' refer to in the context of consumer behavior?",
+      "options": [
+        "a) The process of gaining knowledge about products and services.",
+        "b) A consumer's ability to remember advertisements.",
+        "c) A consumer's educational background.",
+        "d) The role of reference groups in consumer choices."
+      ],
+      "correctAnswer": "a) The process of gaining knowledge about products and services."
+    },
+    {
+      "question": "How do 'attitudes' influence consumer behavior?",
+      "options": [
+        "a) They have no impact on consumer choices.",
+        "b) They shape a consumer's opinions but don't affect behavior.",
+        "c) They represent a consumer's predisposition to respond to information in a particular way.",
+        "d) They only affect high-involvement decisions."
+      ],
+      "correctAnswer": "c) They represent a consumer's predisposition to respond to information in a particular way."
+    },
+    {
+      "question": "In the context of consumer behavior, what does 'attitude change' refer to?",
+      "options": [
+        "a) The development of new attitudes through advertising.",
+        "b) The process of changing a consumer's basic personality traits.",
+        "c) Altering a consumer's overall approach to decision-making.",
+        "d) Shifting a consumer's attitude from one opinion to another."
+      ],
+      "correctAnswer": "d) Shifting a consumer's attitude from one opinion to another."
+    },
+    {
+      "question": "What does 'belief' refer to in the context of consumer behavior?",
+      "options": [
+        "a) A consumer's expectations for a product's performance.",
+        "b) A consumer's irrational ideas about products.",
+        "c) A consumer's in-depth knowledge of a product.",
+        "d) A consumer's geographic location."
+      ],
+      "correctAnswer": "a) A consumer's expectations for a product's performance."
+    },
+    {
+      "question": "In the context of consumer behavior, what is a 'perceived risk'?",
+      "options": [
+        "a) The actual monetary cost of a product.",
+        "b) The emotional distress a consumer experiences.",
+        "c) The feeling that a purchase may result in a bad outcome.",
+        "d) The environmental impact of a product."
+      ],
+      "correctAnswer": "c) The feeling that a purchase may result in a bad outcome."
+    },
+    {
+      "question": "What are 'involvement' and 'self-concept' in the context of consumer behavior?",
+      "options": [
+        "a) Measures of consumer income and occupation.",
+        "b) The level of consumer motivation and self-esteem.",
+        "c) The emotions experienced by consumers.",
+        "d) Types of reference groups."
+      ],
+      "correctAnswer": "b) The level of consumer motivation and self-esteem."
+    },
+    {
+      "question": "What is the 'consumer decision-making process'?",
+      "options": [
+        "a) The process of marketing products to consumers.",
+        "b) The process through which organizations make buying decisions.",
+        "c) The process through which individuals or groups select, purchase, use, or dispose of products, services, ideas, or experiences to satisfy their needs and wants.",
+        "d) The process of developing new products."
+      ],
+      "correctAnswer": "c) The process through which individuals or groups select, purchase, use, or dispose of products, services, ideas, or experiences to satisfy their needs and wants."
+    },
+    {
+      "question": "What are the stages of the 'consumer decision-making process'?",
+      "options": [
+        "a) Problem recognition, product evaluation, purchase decision, post-purchase evaluation, feedback loop",
+        "b) Information search, product evaluation, purchase decision, post-purchase evaluation, feedback loop",
+        "c) Problem recognition, information search, evaluation of alternatives, purchase decision, post-purchase behavior",
+        "d) Problem recognition, information search, purchase decision, post-purchase behavior, feedback loop"
+      ],
+      "correctAnswer": "c) Problem recognition, information search, evaluation of alternatives, purchase decision, post-purchase behavior"
+    },
+    {
+      "question": "What happens during the 'evaluation of alternatives' stage in the consumer decision-making process?",
+      "options": [
+        "a) The consumer recognizes a problem or need.",
+        "b) The consumer makes a purchase decision.",
+        "c) The consumer examines how well each alternative satisfies their needs and preferences.",
+        "d) The consumer gathers information about products and brands."
+      ],
+      "correctAnswer": "c) The consumer examines how well each alternative satisfies their needs and preferences."
+    },
+    {
+      "question": "What is 'cognitive dissonance' in the context of consumer decision-making?",
+      "options": [
+        "a) The process of making decisions based on emotion rather than reason.",
+        "b) The consumer's struggle to recognize a problem.",
+        "c) The negative emotions and doubt that can follow a purchase decision.",
+        "d) The cognitive biases that influence consumer choices."
+      ],
+      "correctAnswer": "c) The negative emotions and doubt that can follow a purchase decision."
+    }
+  ]

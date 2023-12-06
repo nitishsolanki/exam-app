@@ -1,0 +1,57 @@
+/* App.css */
+.App {
+  width: 50%; /* Set the width to 50% of the viewport width */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 20px; /* Add padding for spacing */
+  background-color: #f7f7f7; /* Optional background color */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional box shadow for a subtle container effect */
+}
+
+/* Style for the Question component */
+.Question {
+  text-align: center; /* Center the question text */
+  padding: 10px; /* Add padding for spacing */
+}
+
+/* Style for the answer options */
+ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+li.selected {
+  background-color: #ff2f00;
+  color: #fff;
+  border-color: #ff2f00;
+}
+
+.answer-option {
+  /* Your default styles for answer options */
+  list-style-type: none;
+  cursor: pointer;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.selected-wrong {
+  background-color: #ffcccc; /* Light red background for wrong answer */
+  color: #ff0000; /* Red text color for wrong answer */
+}
+
+.correct-answer {
+  background-color: #ccffcc; /* Light green background for correct answer */
+  color: #008000; /* Green text color for correct answer */
+}
+
+.default-answer {
+  background-color: #f7f7f7; /* Light green background for correct answer */
+  color: #008000; /* Green text color for correct answer */
+}
