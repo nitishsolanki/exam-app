@@ -345,7 +345,8 @@
       "c. 1,000 units",
       "d. 10,000 units"
     ],
-    "correctAnswer": "a. 5,000 units",
+    "correctAnswer": "a. 5,000 units"
+  },
   {
     "question": "A company spent $8,000 on an online advertising campaign that reached 50,000 people. Calculate the cost per thousand impressions (CPM).",
     "options": [
@@ -435,5 +436,105 @@
       "d. Penetration pricing"
     ],
     "correctAnswer": "c. Profit-margin pricing: Price = Cost x (1 + Profit Margin)"
+  },
+  {
+    "question": "What type of product is a refrigerator, considering its durability and the frequency of purchase?",
+    "options": [
+      "a. Specialty Product",
+      "b. Shopping Product",
+      "c. Convenience Product",
+      "d. Unsought Product"
+    ],
+    "correctAnswer": "a. Specialty Product"
+  },
+  {
+    "question": "Which stage of the new-product development process involves idea screening and concept testing?",
+    "options": [
+      "a. Idea Generation",
+      "b. Concept Development and Testing",
+      "c. Business Analysis",
+      "d. Idea Screening"
+    ],
+    "correctAnswer": "d. Idea Screening"
+  },
+  {
+    "question": "During which stage of the product life cycle is a product's sales and profit at their highest?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "c. Maturity"
+  },
+  {
+    "question": "In which product classification category would luxury watches, known for their brand and exclusivity, fall?",
+    "options": [
+      "a. Convenience Product",
+      "b. Shopping Product",
+      "c. Specialty Product",
+      "d. Unsought Product"
+    ],
+    "correctAnswer": "c. Specialty Product"
+  },
+  {
+    "question": "What is the term for the stage in new-product development where the product concept is turned into a physical prototype?",
+    "options": [
+      "a. Commercialization",
+      "b. Idea Screening",
+      "c. Concept Development and Testing",
+      "d. Product Development"
+    ],
+    "correctAnswer": "d. Product Development"
+  },
+  {
+    "question": "During the decline stage of the product life cycle, what marketing strategy may involve reducing costs and cutting back on promotion?",
+    "options": [
+      "a. Harvesting",
+      "b. Diversification",
+      "c. Market Penetration",
+      "d. Product Development"
+    ],
+    "correctAnswer": "a. Harvesting"
+  },
+  {
+    "question": "Which type of consumer product is typically purchased frequently, immediately, and with minimal comparison effort?",
+    "options": [
+      "a. Specialty Product",
+      "b. Shopping Product",
+      "c. Convenience Product",
+      "d. Unsought Product"
+    ],
+    "correctAnswer": "c. Convenience Product"
+  },
+  {
+    "question": "In the context of new-product development, what is the term for a detailed version of the new product idea?",
+    "options": [
+      "a. Concept Testing",
+      "b. Idea Generation",
+      "c. Product Prototype",
+      "d. Product Concept"
+    ],
+    "correctAnswer": "d. Product Concept"
+  },
+  {
+    "question": "What stage of the product life cycle is characterized by a rapid increase in sales and the entry of competitors into the market?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "b. Growth"
+  },
+  {
+    "question": "In which product classification category would emergency medical services (e.g., ambulance services) fall?",
+    "options": [
+      "a. Convenience Product",
+      "b. Shopping Product",
+      "c. Specialty Product",
+      "d. Unsought Product"
+    ],
+    "correctAnswer": "d. Unsought Product"
   }
 ]
