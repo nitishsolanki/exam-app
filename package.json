@@ -1,5 +1,4 @@
 {
-  "homepage": "https://nitishsolanki.github.io/exam-app",
   "name": "exam-app",
   "version": "0.1.0",
   "private": true,
@@ -7,10 +6,10 @@
     "@testing-library/jest-dom": "*",
     "@testing-library/react": "*",
     "@testing-library/user-event": "*",
-    "gh-pages": "*",
+    "gh-pages": "^6.1.0",
     "react": "*",
     "react-dom": "*",
-    "react-scripts": "*",
+    "react-scripts": "^5.0.1",
     "web-vitals": "*"
   },
   "scripts": {

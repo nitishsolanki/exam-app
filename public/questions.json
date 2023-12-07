@@ -326,5 +326,114 @@
       "e. incentive"
     ],
     "correctAnswer": "e. incentive"
+  },
+  {
+    "question": "A company manufactures a product with a production cost of $30, and they want a 25% markup. What will be the selling price?",
+    "options": [
+      "a. $37.50",
+      "b. $40.00",
+      "c. $32.50",
+      "d. $26.00"
+    ],
+    "correctAnswer": "a. $37.50"
+  },
+  {
+    "question": "A startup has fixed costs of $50,000, a selling price of $20, and variable costs of $10 per unit. What is the break-even volume?",
+    "options": [
+      "a. 5,000 units",
+      "b. 2,500 units",
+      "c. 1,000 units",
+      "d. 10,000 units"
+    ],
+    "correctAnswer": "a. 5,000 units",
+  {
+    "question": "A company spent $8,000 on an online advertising campaign that reached 50,000 people. Calculate the cost per thousand impressions (CPM).",
+    "options": [
+      "a. $160",
+      "b. $400",
+      "c. $320",
+      "d. $800"
+    ],
+    "correctAnswer": "a. $160"
+  },
+  {
+    "question": "A website received 10,000 visitors, and 500 of them made a purchase. Calculate the conversion rate.",
+    "options": [
+      "a. 2%",
+      "b. 5%",
+      "c. 10%",
+      "d. 20%"
+    ],
+    "correctAnswer": "b. 5%"
+  },
+  {
+    "question": "Which pricing formula should a company use to set a price that covers production costs and provides a target profit margin?",
+    "options": [
+      "a. Cost-plus pricing: Price = Cost + (Cost x Profit Margin)",
+      "b. Penetration pricing: Price = Competitor's Price - Discount",
+      "c. Skimming pricing: Price = Variable Costs + Fixed Costs",
+      "d. Psychological pricing: Price = Perceived Value"
+    ],
+    "correctAnswer": "a. Cost-plus pricing: Price = Cost + (Cost x Profit Margin)"
+  },
+  {
+    "question": "What pricing strategy is suitable for a company that wants to quickly gain market share for a new product?",
+    "options": [
+      "a. Skimming pricing",
+      "b. Cost-plus pricing",
+      "c. Psychological pricing",
+      "d. Penetration pricing: Price = Cost - (Cost x Discount Percentage)"
+    ],
+    "correctAnswer": "d. Penetration pricing: Price = Cost - (Cost x Discount Percentage)"
+  },
+  {
+    "question": "Which pricing adaptation technique is suitable for a company that wants to adjust its prices based on changes in the market environment?",
+    "options": [
+      "a. Cost-plus pricing",
+      "b. Dynamic pricing: Price = Base Price + Adjustment based on Market Conditions",
+      "c. Skimming pricing",
+      "d. Value-based pricing"
+    ],
+    "correctAnswer": "b. Dynamic pricing: Price = Base Price + Adjustment based on Market Conditions"
+  },
+  {
+    "question": "What pricing approach is being used when a company adjusts its prices to match or beat competitors' prices?",
+    "options": [
+      "a. Cost-plus pricing",
+      "b. Competitor-based pricing: Price = Competitor's Price - Discount",
+      "c. Value-based pricing",
+      "d. Skimming pricing"
+    ],
+    "correctAnswer": "b. Competitor-based pricing: Price = Competitor's Price - Discount"
+  },
+  {
+    "question": "What pricing approach is used when a company sets its prices based on the perceived value of the product in the eyes of the customer?",
+    "options": [
+      "a. Cost-plus pricing",
+      "b. Value-based pricing: Price = Customer's Perceived Value",
+      "c. Penetration pricing",
+      "d. Skimming pricing"
+    ],
+    "correctAnswer": "b. Value-based pricing: Price = Customer's Perceived Value"
+  },
+  {
+    "question": "What pricing tactic is used when a company sets prices just below round numbers (e.g., $9.99 instead of $10.00)?",
+    "options": [
+      "a. Odd-even pricing: Price = Round Number - 0.01",
+      "b. Cost-plus pricing",
+      "c. Value-based pricing",
+      "d. Psychological pricing"
+    ],
+    "correctAnswer": "d. Psychological pricing"
+  },
+  {
+    "question": "What pricing approach is used when a company adjusts its prices based on changes in production costs, ensuring that the profit margin remains constant?",
+    "options": [
+      "a. Cost-plus pricing",
+      "b. Value-based pricing",
+      "c. Profit-margin pricing: Price = Cost x (1 + Profit Margin)",
+      "d. Penetration pricing"
+    ],
+    "correctAnswer": "c. Profit-margin pricing: Price = Cost x (1 + Profit Margin)"
   }
 ]
