@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "*",
     "@testing-library/react": "*",
     "@testing-library/user-event": "*",
+    "@vercel/analytics": "^1.1.1",
     "gh-pages": "^6.1.0",
     "react": "*",
     "react-dom": "*",

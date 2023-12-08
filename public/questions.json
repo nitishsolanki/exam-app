@@ -536,5 +536,446 @@
       "d. Unsought Product"
     ],
     "correctAnswer": "d. Unsought Product"
+  },
+  {
+    "question": "Which of the following do not normally survive (as a special category in the product life cycle) because they do not normally satisfy a strong need?",
+    "options": [
+      "a. Innovations",
+      "b. Niche Products",
+      "c. Fads",
+      "d. Mainstream Products"
+    ],
+    "correctAnswer": "c. Fads"
+  },
+  {
+    "question": "The four stages of the product life cycle include all of the following EXCEPT ________.",
+    "options": [
+      "a. Introduction",
+      "b. Learning",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "b. Learning"
+  },
+  {
+    "question": "Which of the following product life-cycle stages would be appropriately described as being one where firms focus mainly on buyers from higher-income groups, and prices tend to be high because costs are high?",
+    "options": [
+      "a. Introduction stage",
+      "b. Growth stage",
+      "c. Maturity stage",
+      "d. Decline stage"
+    ],
+    "correctAnswer": "a. Introduction stage"
+  },
+  {
+    "question": "A product such as nylon (e.g., numerous uses-parachutes, hosiery, shirts, carpeting, etc.) has been characterized as having a ________ pattern to its product lifecycle.",
+    "options": [
+      "a. Bell-shaped",
+      "b. Scalloped",
+      "c. Linear",
+      "d. Exponential"
+    ],
+    "correctAnswer": "b. Scalloped"
+  },
+  {
+    "question": "Which of the following stages of the product life cycle (PLC) is characterized as being one where there are low sales, high cost per customer, negative profits, and few competitors?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "a. Introduction"
+  },
+  {
+    "question": "According to the general bell-shaped curve used to illustrate the product life cycle, which of the following stages is generally seen when the sales curve is at its peak?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "c. Maturity"
+  },
+  {
+    "question": "__________ is(are) a cross-functional group charged with developing a specific product or business.",
+    "options": [
+      "a. Marketing Department",
+      "b. A venture team",
+      "c. Research and Development Team",
+      "d. Sales Team"
+    ],
+    "correctAnswer": "b. A venture team"
+  },
+  {
+    "question": "The ________ stage of the product is characterized as being one where there is a period of rapid market acceptance and substantial profit improvement.",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "b. Growth"
+  },
+  {
+    "question": "According to the illustrations describing the product life cycle, during which stage of the cycle is there a strong likelihood that negative profits will be the norm?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "a. Introduction"
+  },
+  {
+    "question": "At what stage of the Product Life Cycle would companies typically expect the most number of competitors?",
+    "options": [
+      "a. Introduction",
+      "b. Growth",
+      "c. Maturity",
+      "d. Decline"
+    ],
+    "correctAnswer": "c. Maturity"
+  },
+  {
+    "question": "Forrester Research estimates marketers in 1999 lost about $3 billion in potential sales because consumers were worried about privacy. Although there are several laws being considered that would protect consumers' rights to privacy, none has yet been made into law. This is one way _____ forces have not helped the growth of electronic commerce.",
+    "options": [
+      "a. Economic",
+      "b. Technological",
+      "c. Social",
+      "d. Political",
+      "e. Legal"
+    ],
+    "correctAnswer": "e. Legal"
+  },
+  {
+    "question": "Environmental scans have shown that the population of the United States is undergoing dramatic change. For example, the number of people in this country who are between the ages of 20 and 34 has declined since 1990. On the other hand, the number of people who are 65 years of age or older has increased. These changes in the U.S. population are examples of __________ changes to which marketers must respond.",
+    "options": [
+      "a. Economic",
+      "b. Social",
+      "c. Demographic",
+      "d. Technological",
+      "e. Political"
+    ],
+    "correctAnswer": "c. Demographic"
+  },
+  {
+    "question": "________ is the act of designing the company's offering and image to occupy a distinctive place in the mind of the target market.",
+    "options": [
+      "a. Positioning",
+      "b. Segmentation",
+      "c. Differentiation",
+      "d. Targeting",
+      "e. Branding"
+    ],
+    "correctAnswer": "a. Positioning"
+  },
+  {
+    "question": "Harley-Davidson divides its customers into seven lifestyle segments, from 'cocky misfits,' who are most likely to be arrogant troublemakers, to 'laid-back camper types' committed to cycling and nature, to 'classy capitalist' who have wealth and privilege. This form of segmentation is:",
+    "options": [
+      "a. Demographic",
+      "b. Psychographic",
+      "c. Geographic",
+      "d. Behavioral",
+      "e. Technographic"
+    ],
+    "correctAnswer": "b. Psychographic"
+  },
+  {
+    "question": "Generation X is the label often given to:",
+    "options": [
+      "a. Persons born approximately between 1946 and 1964.",
+      "b. Persons born approximately between 1977 and 1995.",
+      "c. Persons born approximately between 1965 and 1976.",
+      "d. Persons born approximately between 1996 and 2012.",
+      "e. Persons born approximately between 2013 and present."
+    ],
+    "correctAnswer": "c. Persons born approximately between 1965 and 1976."
+  },
+  {
+    "question": "All marketing strategy is built on STP-segmentation, targeting, and ________.",
+    "options": [
+      "a. Positioning",
+      "b. Pricing",
+      "c. Promotion",
+      "d. Product development",
+      "e. Distribution"
+    ],
+    "correctAnswer": "a. Positioning"
+  },
+  {
+    "question": "A ________ consists of a group of customers who share a similar set of needs and wants.",
+    "options": [
+      "a. Marketing mix",
+      "b. Market positioning",
+      "c. Marketing channel",
+      "d. Market segment",
+      "e. Product category"
+    ],
+    "correctAnswer": "d. Market segment"
+  },
+  {
+    "question": "Universal Concerts is planning on bringing a series of concerts to Canada next year. In order for its concerts to be a success it needs to know that Western Canadians like country music and that a country music event in Eastern Canada is much more likely to have empty seats. This consumer behavior requires Universal Concerts to segment its Canadian market according to:",
+    "options": [
+      "a. Geographic and psychographic characteristics.",
+      "b. Demographic and behavioral characteristics.",
+      "c. Geographic and demographic characteristics.",
+      "d. Behavioral and psychographic characteristics.",
+      "e. Demographic and psychographic characteristics."
+    ],
+    "correctAnswer": "a. Geographic and psychographic characteristics."
+  },
+  {
+    "question": "In ________ marketing, the firm operates in several market segments and designs different products for each segment.",
+    "options": [
+      "a. Undifferentiated",
+      "b. Concentrated",
+      "c. Differentiated",
+      "d. Niche",
+      "e. Micromarketing"
+    ],
+    "correctAnswer": "c. Differentiated"
+  },
+  {
+    "question": "The Scion by Toyota has a hip look and feel-and an industrial strength stereo-and is sold in chrome and black showrooms tucked inside Toyota dealerships. According to Toyota, to which of the following audiences is the Scion positioned?",
+    "options": [
+      "a. Baby Boomers",
+      "b. Generation X",
+      "c. Millennials",
+      "d. Generation Y",
+      "e. Generation Z"
+    ],
+    "correctAnswer": "d. Generation Y"
+  },
+  {
+    "question": "Which problem-solving variation would normally be used to purchase such items as toothpaste, soda, or chewing gum?",
+    "options": [
+      "a. Routine problem solving",
+      "b. Limited problem solving",
+      "c. Extended problem solving",
+      "d. Impulse buying",
+      "e. Variety seeking"
+    ],
+    "correctAnswer": "a. Routine problem solving"
+  },
+  {
+    "question": "________ assumed that the psychological forces shaping people's behavior are largely from the subconscious, and that a person cannot fully understand his or her own motivations.",
+    "options": [
+      "a. B.F. Skinner",
+      "b. Carl Rogers",
+      "c. Sigmund Freud",
+      "d. Abraham Maslow",
+      "e. Ivan Pavlov"
+    ],
+    "correctAnswer": "c. Sigmund Freud"
+  },
+  {
+    "question": "________ is a set of distinguishing human psychological traits that lead to relatively consistent and enduring responses to environmental stimuli.",
+    "options": [
+      "a. Attitude",
+      "b. Personality",
+      "c. Perception",
+      "d. Motivation",
+      "e. Lifestyle"
+    ],
+    "correctAnswer": "b. Personality"
+  },
+  {
+    "question": "________ is the tendency to interpret information in a way that will fit our preconceptions.",
+    "options": [
+      "a. Perceptual vigilance",
+      "b. Perceptual defense",
+      "c. Selective distortion",
+      "d. Selective exposure",
+      "e. Subliminal perception"
+    ],
+    "correctAnswer": "c. Selective distortion"
+  },
+  {
+    "question": "A person's consistent behaviors or responses to recurring situations is his or her:",
+    "options": [
+      "a. Attitude",
+      "b. Perception",
+      "c. Motivation",
+      "d. Lifestyle",
+      "e. Personality"
+    ],
+    "correctAnswer": "e. Personality"
+  },
+  {
+    "question": "________ is the study of how individuals, groups, and organizations select, buy, use, and dispose of goods, services, ideas, or experiences to satisfy their needs and wants.",
+    "options": [
+      "a. Market research",
+      "b. Marketing strategy",
+      "c. Market segmentation",
+      "d. Consumer behavior",
+      "e. Brand management"
+    ],
+    "correctAnswer": "d. Consumer behavior"
+  },
+  {
+    "question": "If a direct mail marketer wished to direct promotional efforts toward the family of ________, efforts need to be directed toward parents and siblings of the family members.",
+    "options": [
+      "a. Orientation",
+      "b. Reference group",
+      "c. Culture",
+      "d. Social class",
+      "e. Lifestyle"
+    ],
+    "correctAnswer": "a. Orientation"
+  },
+  {
+    "question": "When a consumer makes the final decision on which brand to buy, he or she selects a brand from the ________ set.",
+    "options": [
+      "a. Awareness",
+      "b. Consideration",
+      "c. Evaluation",
+      "d. Choice",
+      "e. Decision"
+    ],
+    "correctAnswer": "d. Choice"
+  },
+  {
+    "question": "The fundamental determinant of a person's wants and behavior is the person's ________.",
+    "options": [
+      "a. Personality",
+      "b. Perception",
+      "c. Culture",
+      "d. Motivation",
+      "e. Lifestyle"
+    ],
+    "correctAnswer": "c. Culture"
+  },
+  {
+    "question": "A person's ________ consist(s) of all the groups that have a direct (face-to-face) or indirect influence on his/her attitudes or behavior.",
+    "options": [
+      "a. Social class",
+      "b. Culture",
+      "c. Family",
+      "d. Reference groups",
+      "e. Subculture"
+    ],
+    "correctAnswer": "d. Reference groups"
+  },
+  {
+    "question": "Which of the following terms matches to the phrase 'it is a single business or collection of related businesses that can be planned separately from the rest of the company'?",
+    "options": [
+      "a. Strategic business unit",
+      "b. Market segment",
+      "c. Product category",
+      "d. Brand",
+      "e. Distribution channel"
+    ],
+    "correctAnswer": "a. Strategic business unit"
+  },
+  {
+    "question": "The acronym SWOT used in the term SWOT analysis stands for:",
+    "options": [
+      "a. Sales, Warehousing, Operations, Technology",
+      "b. Strategies, Workflow, Objectives, Tactics",
+      "c. Strengths, Weaknesses, Opportunities, and Threats",
+      "d. Strategic, Workplace, Organizational, Tasks",
+      "e. Structured, Widespread, Operational, Trends"
+    ],
+    "correctAnswer": "c. Strengths, Weaknesses, Opportunities, and Threats"
+  },
+  {
+    "question": "If you were the marketing manager of an organization that had chosen growth via current products sold to new markets, your organization would have chosen a ________ strategy.",
+    "options": [
+      "a. Product development",
+      "b. Market development",
+      "c. Diversification",
+      "d. Market penetration",
+      "e. Concentric diversification"
+    ],
+    "correctAnswer": "b. Market development"
+  },
+  {
+    "question": "Market-penetration, product-development, and market-development strategies would all be examples of ________ strategies.",
+    "options": [
+      "a. Diversification",
+      "b. Retrenchment",
+      "c. Defensive",
+      "d. Intensive growth",
+      "e. Stability"
+    ],
+    "correctAnswer": "d. Intensive growth"
+  },
+  {
+    "question": "In the Boston Consulting Group (BCG) model to analyze a firm's strategic business units, or SBUs, the vertical axis reflects the:",
+    "options": [
+      "a. Market share",
+      "b. Industry growth rate",
+      "c. Competitive position",
+      "d. Relative market share",
+      "e. Product life cycle"
+    ],
+    "correctAnswer": "b. Industry growth rate"
+  },
+  {
+    "question": "The ________ is the central instrument for directing and coordinating the marketing effort.",
+    "options": [
+      "a. Marketing strategy",
+      "b. Marketing plan",
+      "c. Marketing mix",
+      "d. Marketing budget",
+      "e. Marketing research"
+    ],
+    "correctAnswer": "b. Marketing plan"
+  },
+  {
+    "question": "Assume McDonald's is engaging in a market development strategy. Which of the following actions best illustrates a market development strategy?",
+    "options": [
+      "a. Opening the first McDonald's in China",
+      "b. Introducing a new line of salads in existing markets",
+      "c. Increasing the advertising budget in the current market",
+      "d. Offering a loyalty program to existing customers",
+      "e. Investing in research and development for new products"
+    ],
+    "correctAnswer": "a. Opening the first McDonald's in China"
+  },
+  {
+    "question": "_____ are SBUs with a low share of low-growth markets-they may generate enough cash to sustain themselves, but they do not hold the promise of ever becoming real winners for the firm.",
+    "options": [
+      "a. Stars",
+      "b. Cash cows",
+      "c. Question marks",
+      "d. Dogs",
+      "e. Pioneers"
+    ],
+    "correctAnswer": "d. Dogs"
+  },
+  {
+    "question": "The first step in the business unit strategic-planning process deals with which of the following?",
+    "options": [
+      "a. Setting objectives",
+      "b. Business mission",
+      "c. SWOT analysis",
+      "d. Implementation",
+      "e. Evaluation"
+    ],
+    "correctAnswer": "b. Business mission"
+  },
+  {
+    "question": "Gillette continues to manufacture Liquid Paper correction fluid for use with typewriters even though most of the world uses word processors. It is a small market that has little growth, but Liquid Paper has the largest market share, and Gillette invests no promotional monies in maintaining the declining product. Liquid Paper is an example of a:",
+    "options": [
+      "a. Star",
+      "b. Cash cow",
+      "c. Question mark",
+      "d. Dog",
+      "e. Pioneering product"
+    ],
+    "correctAnswer": "b. Cash cow"
+  },
+  {
+    "question": "A product's quantity demanded decreases by 15% when its price increases by 10%. Calculate the coefficient of price elasticity of demand.",
+    "options": [
+      "a. 1.5",
+      "b. 0.67",
+      "c. 1.0",
+      "d. 0.33",
+      "e. 1.67"
+    ],
+    "correctAnswer": "a. 1.5"
   }
 ]

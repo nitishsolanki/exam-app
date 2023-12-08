@@ -2,6 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import Question from './Question';
 
+function shuffleArray(array) {
+    // Fisher-Yates (aka Knuth) Shuffle algorithm
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 function App() {
     const [questions, setQuestions] = useState([]);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -11,7 +20,10 @@ function App() {
     useEffect(() => {
         fetch('/questions.json') // The path to your JSON file
             .then((response) => response.json())
-            .then((data) => setQuestions(data))
+            .then((data) => {
+                const shuffledQuestions = shuffleArray(data);
+                setQuestions(shuffledQuestions);
+            })
             .catch((error) => console.error(error));
     }, []);
     const handleNextQuestion = () => {

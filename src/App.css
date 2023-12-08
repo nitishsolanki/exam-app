@@ -55,3 +55,9 @@ li.selected {
   background-color: #f7f7f7; /* Light green background for correct answer */
   color: #008000; /* Green text color for correct answer */
 }
+
+button {
+  margin: 10px; /* Add spacing around the button */
+  padding: 15px 30px; /* Adjust padding to increase button size */
+  font-size: 12px; /* Adjust font size */
+}

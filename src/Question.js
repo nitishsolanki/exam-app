@@ -61,6 +61,7 @@ function Question({ number, totalQuestions, question, options, correctAnswer, on
                     );
                 })}
             </ul>
+
             {answerSelected && !revealCorrectAnswer && (
                 <button onClick={handleRevealCorrectAnswer}>
                     Reveal Correct Answer
@@ -74,6 +75,7 @@ function Question({ number, totalQuestions, question, options, correctAnswer, on
             {
                 <button onClick={onFinishExam}>Finish</button>
             }
+
         </div>
     );
 }
